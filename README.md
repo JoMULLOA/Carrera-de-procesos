@@ -11,7 +11,7 @@ II. Compilador GNU g++.
 ## 2. Compilación
 I.   Los archivos `t1.cpp` y `Makefile` deben estar en el mismo directorio.
 II.  En la terminal, con el uso de cd, se puede ubicar dentro de la carpeta.
-III. Ejecuta el comando ' make ' para compilar el programa.
+III. Ejecuta el comando `make` para compilar el programa.
 
 ## 3. Ejecución
-I. Luego de compilar ejecutar el .exe generado respetando este formato ' ./t1.exe <distanciaCarrera> <numeroAutos> '
+I. Luego de compilar ejecutar el `.exe` generado respetando este formato `./t1.exe <distanciaCarrera> <numeroAutos>`.

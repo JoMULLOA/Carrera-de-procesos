@@ -9,7 +9,8 @@ I.  El programa esta hecho para ser ejecutado mediante consola donde se necesita
 II. Compilador GNU g++.
    
 ## 2. Compilación
-I.   Los archivos `t1.cpp` y `Makefile` deben estar en el mismo directorio.\n
+I.   Los archivos `t1.cpp` y `Makefile` deben estar en el mismo directorio.
+
 II.  En la terminal, con el uso de cd, se puede ubicar dentro de la carpeta.
 III. Ejecuta el comando `make` para compilar el programa.
 

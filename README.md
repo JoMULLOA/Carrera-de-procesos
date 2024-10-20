@@ -10,18 +10,18 @@ I.  El programa esta hecho para ser ejecutado mediante consola donde se necesita
 II. Compilador GNU g++.
 
 ## 2. Descarga y descomprimir
-I.  El archivo es un archivo comprimido con los archivo `t1.cpp` y `Makefile`.
+I.   El archivo es un archivo comprimido con los archivo `t1.cpp` y `Makefile`.
 
-II. Para realizar la descarga por consola usar: `wget https://github.com/JoMULLOA/SSOOT/raw/main/proyectoTarea.zip`.
+II.  Para realizar la descarga por consola usar: `wget https://github.com/JoMULLOA/SSOOT/raw/main/proyectoTarea.zip`.
 
-III.Para descomprimir el archivo hacer uso de: `unzip proyectoTarea.zip`.
+III. Para descomprimir el archivo hacer uso de: `unzip proyectoTarea.zip`.
 
 ## 3. Compilación 
 - Si se realizo el paso 2 correctamente, solo hacer el paso III
   
 I.   Los archivos `t1.cpp` y `Makefile` deben estar en el mismo directorio.
 
-II.  En la terminal, con el uso de cd, se puede ubicar dentro de la carpeta.
+II.  En la terminal, con el uso de `cd`, se puede ubicar dentro de la carpeta.
 
 III. Ejecuta el comando `make` para compilar el programa.
 

@@ -16,7 +16,8 @@ II. Para realizar la descarga por consola usar: `wget https://github.com/JoMULLO
 
 III.Para descomprimir el archivo hacer uso de: `unzip proyectoTarea.zip`.
 
-## 3. Compilación (Si se realizo el paso 2 correctamente, solo hacer el paso III)
+## 3. Compilación 
+### Si se realizo el paso 2 correctamente, solo hacer el paso III
 I.   Los archivos `t1.cpp` y `Makefile` deben estar en el mismo directorio.
 
 II.  En la terminal, con el uso de cd, se puede ubicar dentro de la carpeta.

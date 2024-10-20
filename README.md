@@ -1,7 +1,5 @@
-# Sistemas operativos 2024-2
-> Tarea 1: Simulador carrera de autos
-
-El programa de este repositorio simula una carrera de autos usando múltiples hilos en el lenguaje C++.
+# Tarea 1 Sistemas Operativos: Simulador carrera de autos
+> El programa de este repositorio simula una carrera de autos usando múltiples hilos en el lenguaje C++.
 
 ## 1. Requisitos
 I.  El programa esta hecho para ser ejecutado mediante consola donde se necesita usar alguna distribución de Linux.
